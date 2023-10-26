@@ -1,0 +1,8 @@
+C:\Users\Diego\Desktop\Temporales\wordToHtmlCoverter\wordToHtmlConverter\bin\Debug\wordToHtmlConverter.exe.config
+C:\Users\Diego\Desktop\Temporales\wordToHtmlCoverter\wordToHtmlConverter\bin\Debug\wordToHtmlConverter.exe
+C:\Users\Diego\Desktop\Temporales\wordToHtmlCoverter\wordToHtmlConverter\bin\Debug\wordToHtmlConverter.pdb
+C:\Users\Diego\Desktop\Temporales\wordToHtmlCoverter\wordToHtmlConverter\obj\Debug\wordToHtmlConverter.csproj.AssemblyReference.cache
+C:\Users\Diego\Desktop\Temporales\wordToHtmlCoverter\wordToHtmlConverter\obj\Debug\wordToHtmlConverter.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego\Desktop\Temporales\wordToHtmlCoverter\wordToHtmlConverter\obj\Debug\wordToHtmlConverter.csproj.CoreCompileInputs.cache
+C:\Users\Diego\Desktop\Temporales\wordToHtmlCoverter\wordToHtmlConverter\obj\Debug\wordToHtmlConverter.exe
+C:\Users\Diego\Desktop\Temporales\wordToHtmlCoverter\wordToHtmlConverter\obj\Debug\wordToHtmlConverter.pdb
